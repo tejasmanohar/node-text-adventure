@@ -1,0 +1,19 @@
+{
+  "name": "node-text-adventure",
+  "version": "0.0.0",
+  "description": "node.js cli text-based adventure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasmanohar/node-text-adventure.git"
+  },
+  "author": "Tejas Manohar <me@tejas.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tejasmanohar/node-text-adventure/issues"
+  },
+  "homepage": "https://github.com/tejasmanohar/node-text-adventure#readme"
+}
